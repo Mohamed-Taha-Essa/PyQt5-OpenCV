@@ -1,4 +1,4 @@
-# PyQt5-openCV-
+# PyQt5_openCV:
 This Repo will contain adesktop applicatin using python PyQt5 and openCV.
 you will find :
 1-read and display image.
