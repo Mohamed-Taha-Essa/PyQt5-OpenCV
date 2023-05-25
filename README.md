@@ -7,6 +7,6 @@ you will find :
 
 
 # what you need to run the code in your pc:
-1- install python3 .
-2-install pyqt5 .
-3- install opencv
+1 - install python3 .
+2 -install pyqt5 .
+3 - install opencv
