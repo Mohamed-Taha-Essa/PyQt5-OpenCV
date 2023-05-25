@@ -6,7 +6,7 @@ you will find :
 3-apply some of algorithms of computer vision using openCV.
 
 
-#what you need to run the code in your pc:
+# what you need to run the code in your pc:
 1- install python3 .
 2-install pyqt5 .
 3- install opencv
